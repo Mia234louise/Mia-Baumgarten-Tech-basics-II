@@ -3,7 +3,7 @@ This repository includes Mia Baumgarten`s Tech Basics II Exam project code.
 
 This repository should contain the following:
 - My report as a doxc file
-- My python code app.py
+- My python code (app.py)
 - My supporting image
 - This README file
 
