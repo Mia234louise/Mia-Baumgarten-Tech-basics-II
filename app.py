@@ -12,7 +12,7 @@ root.minsize(screen_width, screen_height)
 root.configure(background="#F0F8FF")
 
 # Set up the background picture
-image_file_path = "hands.jpeg"
+image_file_path = "Picture.jpeg"
 background_colour = "#F0F8FF"
 
 
